@@ -1,0 +1,51 @@
+{
+  "Jobs": [
+    { "id": 1, "title": "full-stack", "type": "full-time" },
+    { "id": 2, "title": "Web-dev", "type": "full-time" },
+    { "id": 3, "title": "Web-dev", "type": "full-time" },
+    { "id": 4, "title": "Web-dev", "type": "full-time" },
+    { "id": 5, "title": "App-dev", "type": "full-time" },
+    { "id": 6, "title": "Data-scientist", "type": "full-time" },
+    { "id": 7, "title": "Web-architect", "type": "Remote" },
+    { "id": 8, "title": "Data-analyser", "type": "full-time" },
+    { "id": 9, "title": "Web-dev", "type": "full-time" },
+    { "id": 10, "title": "App-dev", "type": "full-time" },
+    { "id": 11, "title": "full-stack", "type": "full-time" },
+    { "id": 12, "title": "Web-dev", "type": "full-time" },
+    { "id": 13, "title": "Web-dev", "type": "full-time" },
+    { "id": 14, "title": "Web-dev", "type": "full-time" },
+    { "id": 15, "title": "App-dev", "type": "full-time" },
+    { "id": 16, "title": "Data-scientist", "type": "full-time" },
+    { "id": 17, "title": "Web-architect", "type": "Remote" },
+    { "id": 18, "title": "Data-analyser", "type": "full-time" },
+    { "id": 19, "title": "Web-dev", "type": "full-time" },
+    { "id": 20, "title": "App-dev", "type": "full-time" }
+
+  ],
+  "company": [
+    { "id": 1, "name": "developper", "addrese": "Mostaganem"},
+    { "id": 2, "name": "HTC Tech", "addrese": "Oran"},
+    { "id": 3, "name": "MBN Tech", "addrese": "Telemsen"},
+    { "id": 4, "name": "HTC Tech", "addrese": "Mostagaeem"},
+    { "id": 5, "name": "SMT Tech", "addrese": "Alger"},
+    { "id": 6, "name": "RST Tech", "addrese": "Sidi belabas"},
+    { "id": 7, "name": "LBM Tech", "addrese": "Mostagaeem"},
+    { "id": 8, "name": "LLM Tech", "addrese": "Masacara"},
+    { "id": 10, "name": "Yassir", "addrese": "Alger"},
+    { "id": 11, "name": "developper", "addrese": "Mostaganem"},
+    { "id": 12, "name": "HTC Tech", "addrese": "Oran"},
+    { "id": 13, "name": "MBN Tech", "addrese": "Telemsen"},
+    { "id": 14, "name": "HTC Tech", "addrese": "Mostagaeem"},
+    { "id": 15, "name": "SMT Tech", "addrese": "Alger"},
+    { "id": 16, "name": "RST Tech", "addrese": "Sidi belabas"},
+    { "id": 17, "name": "LBM Tech", "addrese": "Mostagaeem"},
+    { "id": 18, "name": "HSE Tech", "addrese": "Mostagaeem"},
+    { "id": 19, "name": "LLM Tech", "addrese": "Masacara"},
+    { "id": 20, "name": "Yassir", "addrese": "Alger"}
+
+  ],
+  "requirment": { "one": "soft skills" }
+}
+
+
+
